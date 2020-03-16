@@ -15,9 +15,17 @@ h2{
     font-size: 18px;
 }
 
-ul{
+#skills {
     list-style-image: url("./images/redrightarrow.jpg");
     column-count: 3;
     list-style-position: outside;
 
+}
+
+.alignRight{
+    float: right;
+}
+
+.alignLeft{
+    float: left;
 }
